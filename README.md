@@ -1,6 +1,6 @@
 # Project Title
 
-Personal Profile Page (v01)
+Personal Profile Page (prototypeVer)
 
 ### Goal of the project
 
