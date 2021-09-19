@@ -1,2 +1,13 @@
-# Techdegree-project-01
- Unit-01 project from the Treehouse FEWD techdegree course
+# Project Title
+
+Personal Profile Page (v01)
+
+### Goal of the project
+
+- To customize a personal online profile by adding graphics, customizing text, and improving the overall look of the web page
+
+### Built With
+
+- CSS
+
+- HTML
